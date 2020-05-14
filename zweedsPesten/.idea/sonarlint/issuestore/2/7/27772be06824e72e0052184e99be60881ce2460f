@@ -1,0 +1,6 @@
+
+2squid:S2326"T is not used in the class.(ç–‹¸
+`squid:CallToDeprecatedMethod'",Remove this use of "Date"; it is deprecated.(§¡îŒøÿÿÿÿ8ËÜ·Êü-
+`squid:UselessImportCheck
+"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8¸ÔøÓü-
+\squid:UselessImportCheck	"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8¸ÔøÓü-

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/" xmlns:fx="http://javafx.com/fxml/" fx:controller="frontend.controllers.GameController">
+   <children>
+      <Button fx:id="btnLogOut" layoutX="1213.0" layoutY="14.0" mnemonicParsing="false" onAction="#processBtnLogOutClicked" text="Log uit">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <ImageView fx:id="ivPlayedCards" fitHeight="174.0" fitWidth="119.0" layoutX="652.0" layoutY="239.0" pickOnBounds="true" preserveRatio="true" visible="false">
+         <image>
+            <Image url="@pictures/h_7.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <ImageView fx:id="ivDeck" fitHeight="177.0" fitWidth="119.0" layoutX="404.0" layoutY="236.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pictures/back.png" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </ImageView>
+      <Label fx:id="lbPlayer4" layoutX="42.0" layoutY="92.0" />
+      <Label fx:id="lbPlayer2" layoutX="542.0" layoutY="48.0" />
+      <Label fx:id="lbPlayer3" layoutX="1129.0" layoutY="92.0" />
+      <Label fx:id="lbPlayer1" layoutX="542.0" layoutY="444.0" />
+      <Button fx:id="btnSurrender" layoutX="1139.0" layoutY="14.0" mnemonicParsing="false" onAction="#processBtnSurrender" text="Geef Op">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button fx:id="btnReady" layoutX="627.0" layoutY="399.0" mnemonicParsing="false" onAction="#processBtnReadyClicked" text="Gereed">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <CheckBox fx:id="cbPlayer1Ready" disable="true" layoutX="522.0" layoutY="444.0" mnemonicParsing="false" />
+      <CheckBox fx:id="cbPlayer4Ready" disable="true" layoutX="21.0" layoutY="92.0" mnemonicParsing="false" visible="false" />
+      <CheckBox fx:id="cbPlayer2Ready" disable="true" layoutX="522.0" layoutY="48.0" mnemonicParsing="false" visible="false" />
+      <CheckBox fx:id="cbPlayer3Ready" disable="true" layoutX="1098.0" layoutY="92.0" mnemonicParsing="false" visible="false" />
+   </children>
+</AnchorPane>

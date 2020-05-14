@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0bcf1ac-a39e-4b6f-ad8e-2e50480339d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RestService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/RestService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/src/main/java/s3/shithead/fhict/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestService/src/test/java/s3/shithead/fhict/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZweedsPestenWebsockets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/s3/shithead/fhict/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/s3/shithead/fhict/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/ZweedsPestenShared.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZweedsPestenShared/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zweedsPesten/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zweedsPesten/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zweedsPesten/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zweedsPesten/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zweedsPesten/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zweedsPesten/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zweedsPesten/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zweedsPesten/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wang-\Desktop\Software\Big Idea\s3-zweedspesten\Websockets\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhXV9T4JTnhsNsWp3tGox2Rw1K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bcf1ac-a39e-4b6f-ad8e-2e50480339d2" name="Default Changelist" comment="" />
+      <created>1575809821622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575809821622</updated>
+      <workItem from="1575809824456" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
